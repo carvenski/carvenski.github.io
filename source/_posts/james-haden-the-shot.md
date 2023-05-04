@@ -1,5 +1,5 @@
 ---
-title: james haden, the shot
+title: james haden's shot
 tags: basketball
 ---
 

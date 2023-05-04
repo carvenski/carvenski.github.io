@@ -104,6 +104,6 @@ theme: freemind
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: main
-  branch: https://yxzoro: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@github.com/yxzoro/myblog.git
+  repo: https://yxzoro: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@github.com/yxzoro/myblog.git
+  branch: main
   message: hexo push
