@@ -3,22 +3,21 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: freemind
+title: Carvenski Lab
 subtitle: 'blog'
 description: 'blog'
 keywords: blog
-author: Michael Yang's Blog.
+author: carvenski
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
-## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://yxzoro.github.io/myblog
+url: https://carvenski.github.io/carvenski
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
-  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
-  trailing_html: true # Set to false to remove trailing '.html' from permalinks
+  trailing_index: true 
+  trailing_html: true 
 
 # Directory
 source_dir: source
@@ -31,9 +30,9 @@ i18n_dir: :lang
 skip_render:
 
 # Writing
-new_post_name: :title.md # File name of new posts
+new_post_name: :title.md
 default_layout: post
-titlecase: false # Transform title into titlecase
+titlecase: false 
 external_link:
   enable: true # Open external links in new tab
   field: site # Apply to the whole site
@@ -98,12 +97,12 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 #theme: landscape
-theme: freemind
+theme: Wikitten
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: https://yxzoro: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@github.com/yxzoro/myblog.git
+  repo: https://$git_token@github.com/carvenski/carvenski.git
   branch: main
   message: hexo push
