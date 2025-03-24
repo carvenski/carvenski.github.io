@@ -1,3 +1,4 @@
+https://carvenski.github.io/2025/03/24/Embedded%20Hardware%20Engineer/Embedded%20Hardware%20Engineer/
 https://carvenski.github.io/2025/03/22/Software%20Engineer/hexo/hexo%20command/
 https://carvenski.github.io/2025/03/24/Embedded%20Hardware%20Engineer/FreeRTOS/FreeRTOS%20intro/
 https://carvenski.github.io/about/index.html
