@@ -103,6 +103,7 @@ theme: Wikitten
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: https://$git_token@github.com/carvenski/carvenski.git
+  # should read $git_token from env
+  repo: https://$git_token@github.com/carvenski/carvenski.github.io.git
   branch: main
   message: hexo push
