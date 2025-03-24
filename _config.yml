@@ -12,7 +12,7 @@ language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
-url: https://carvenski.github.io/carvenski
+url: https://carvenski.github.io # this is your site domain
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -102,8 +102,8 @@ theme: Wikitten
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
-  # should read $git_token from env
-  repo: https://$git_token@github.com/carvenski/carvenski.github.io.git
+  type: 'git'  
+  repo: https://github.com/carvenski/carvenski.github.io.git
   branch: main
+  token: ${git_token} # should read $git_token from env
   message: hexo push
