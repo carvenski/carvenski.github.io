@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://carvenski.github.io/carvenski/about/index.html</loc>
+    <loc>https://carvenski.github.io/about/index.html</loc>
     
     <lastmod>2025-03-23</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://carvenski.github.io/carvenski/2025/03/22/software/python/python%20intro/</loc>
+    <loc>https://carvenski.github.io/2025/03/22/software/python/python%20intro/</loc>
     
     <lastmod>2025-03-22</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://carvenski.github.io/carvenski/2025/03/22/software/hexo/hexo%20command/</loc>
+    <loc>https://carvenski.github.io/2025/03/22/software/hexo/hexo%20command/</loc>
     
     <lastmod>2025-03-22</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://carvenski.github.io/carvenski/categories/index.html</loc>
+    <loc>https://carvenski.github.io/tags/index.html</loc>
     
     <lastmod>2025-03-22</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://carvenski.github.io/carvenski/tags/index.html</loc>
+    <loc>https://carvenski.github.io/categories/index.html</loc>
     
     <lastmod>2025-03-22</lastmod>
     
@@ -48,7 +48,7 @@
   
 
   <url>
-    <loc>https://carvenski.github.io/carvenski</loc>
+    <loc>https://carvenski.github.io/</loc>
     <lastmod>2025-03-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -58,21 +58,21 @@
 
   
   <url>
-    <loc>https://carvenski.github.io/carvenski/categories/software/</loc>
+    <loc>https://carvenski.github.io/categories/software/</loc>
     <lastmod>2025-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://carvenski.github.io/carvenski/categories/software/python/</loc>
+    <loc>https://carvenski.github.io/categories/software/hexo/</loc>
     <lastmod>2025-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://carvenski.github.io/carvenski/categories/software/hexo/</loc>
+    <loc>https://carvenski.github.io/categories/software/python/</loc>
     <lastmod>2025-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

@@ -3,11 +3,11 @@
   <title>Carvenski Lab</title>
   
   <subtitle>blog</subtitle>
-  <link href="https://carvenski.github.io/carvenski/atom.xml" rel="self"/>
+  <link href="https://carvenski.github.io/atom.xml" rel="self"/>
   
-  <link href="https://carvenski.github.io/carvenski/"/>
+  <link href="https://carvenski.github.io/"/>
   <updated>2025-03-22T04:40:41.339Z</updated>
-  <id>https://carvenski.github.io/carvenski/</id>
+  <id>https://carvenski.github.io/</id>
   
   <author>
     <name>carvenski</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>python intro</title>
-    <link href="https://carvenski.github.io/carvenski/2025/03/22/software/python/python%20intro/"/>
-    <id>https://carvenski.github.io/carvenski/2025/03/22/software/python/python%20intro/</id>
+    <link href="https://carvenski.github.io/2025/03/22/software/python/python%20intro/"/>
+    <id>https://carvenski.github.io/2025/03/22/software/python/python%20intro/</id>
     <published>2025-03-22T04:38:16.341Z</published>
     <updated>2025-03-22T04:40:41.339Z</updated>
     
@@ -33,17 +33,17 @@
     
     
     
-    <category term="software" scheme="https://carvenski.github.io/carvenski/categories/software/"/>
+    <category term="software" scheme="https://carvenski.github.io/categories/software/"/>
     
-    <category term="python" scheme="https://carvenski.github.io/carvenski/categories/software/python/"/>
+    <category term="python" scheme="https://carvenski.github.io/categories/software/python/"/>
     
     
   </entry>
   
   <entry>
     <title>hexo command</title>
-    <link href="https://carvenski.github.io/carvenski/2025/03/22/software/hexo/hexo%20command/"/>
-    <id>https://carvenski.github.io/carvenski/2025/03/22/software/hexo/hexo%20command/</id>
+    <link href="https://carvenski.github.io/2025/03/22/software/hexo/hexo%20command/"/>
+    <id>https://carvenski.github.io/2025/03/22/software/hexo/hexo%20command/</id>
     <published>2025-03-22T02:59:39.491Z</published>
     <updated>2025-03-22T03:46:14.760Z</updated>
     
@@ -57,9 +57,9 @@
     
     
     
-    <category term="software" scheme="https://carvenski.github.io/carvenski/categories/software/"/>
+    <category term="software" scheme="https://carvenski.github.io/categories/software/"/>
     
-    <category term="hexo" scheme="https://carvenski.github.io/carvenski/categories/software/hexo/"/>
+    <category term="hexo" scheme="https://carvenski.github.io/categories/software/hexo/"/>
     
     
   </entry>

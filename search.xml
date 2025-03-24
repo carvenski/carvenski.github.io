@@ -5,8 +5,8 @@
     
     <entry>
       <title>python intro</title>
-      <link href="/carvenski/2025/03/22/software/python/python%20intro/"/>
-      <url>/carvenski/2025/03/22/software/python/python%20intro/</url>
+      <link href="/2025/03/22/software/python/python%20intro/"/>
+      <url>/2025/03/22/software/python/python%20intro/</url>
       
         <content type="html"><![CDATA[<h1 id="hello-world"><a href="#hello-world" class="headerlink" title="hello world"></a>hello world</h1><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello World&quot;</span>)</span><br></pre></td></tr></table></figure><h1 id="var"><a href="#var" class="headerlink" title="var"></a>var</h1><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">i = <span class="number">1</span></span><br><span class="line">j = <span class="number">0</span></span><br><span class="line"><span class="keyword">if</span> i:</span><br><span class="line">    <span class="built_in">print</span>(i)</span><br><span class="line"><span class="keyword">if</span> j:</span><br><span class="line">    <span class="built_in">print</span>(j)</span><br></pre></td></tr></table></figure>]]></content>
       
@@ -26,8 +26,8 @@
     
     <entry>
       <title>hexo command</title>
-      <link href="/carvenski/2025/03/22/software/hexo/hexo%20command/"/>
-      <url>/carvenski/2025/03/22/software/hexo/hexo%20command/</url>
+      <link href="/2025/03/22/software/hexo/hexo%20command/"/>
+      <url>/2025/03/22/software/hexo/hexo%20command/</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post.<br>Check <a href="https://hexo.io/docs/">documentation</a> for more info.<br>If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a><br>or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h3 id="use-hexo"><a href="#use-hexo" class="headerlink" title="use hexo"></a>use hexo</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">$ hexo n &quot;My New Post&quot; # new</span><br><span class="line">$ hexo g # generate</span><br><span class="line">$ hexo s # server</span><br><span class="line">$ hexo d # deploy</span><br><span class="line">$ hexo push</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
