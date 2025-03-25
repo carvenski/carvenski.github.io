@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://carvenski.github.io/2025/03/24/Embedded%20Hardware%20Engineer/Embedded%20Hardware%20Engineer/</loc>
+    <loc>https://carvenski.github.io/2025/03/25/Software%20Engineer/AI/AI%20technology%20learning%20list/</loc>
     
-    <lastmod>2025-03-24</lastmod>
+    <lastmod>2025-03-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -12,15 +12,6 @@
   
   <url>
     <loc>https://carvenski.github.io/2025/03/22/Software%20Engineer/hexo/hexo%20command/</loc>
-    
-    <lastmod>2025-03-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://carvenski.github.io/2025/03/24/Embedded%20Hardware%20Engineer/FreeRTOS/FreeRTOS%20intro/</loc>
     
     <lastmod>2025-03-24</lastmod>
     
@@ -67,7 +58,7 @@
 
   <url>
     <loc>https://carvenski.github.io/</loc>
-    <lastmod>2025-03-24</lastmod>
+    <lastmod>2025-03-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -76,36 +67,29 @@
 
   
   <url>
-    <loc>https://carvenski.github.io/categories/Embedded-Hardware-Engineer/</loc>
-    <lastmod>2025-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://carvenski.github.io/categories/Software-Engineer/</loc>
-    <lastmod>2025-03-24</lastmod>
+    <lastmod>2025-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://carvenski.github.io/categories/Software-Engineer/hexo/</loc>
-    <lastmod>2025-03-24</lastmod>
+    <lastmod>2025-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://carvenski.github.io/categories/Software-Engineer/python/</loc>
-    <lastmod>2025-03-24</lastmod>
+    <lastmod>2025-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://carvenski.github.io/categories/Embedded-Hardware-Engineer/FreeRTOS/</loc>
-    <lastmod>2025-03-24</lastmod>
+    <loc>https://carvenski.github.io/categories/Software-Engineer/AI/</loc>
+    <lastmod>2025-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
